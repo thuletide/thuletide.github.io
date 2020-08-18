@@ -1,1 +1,1 @@
-<a href="thuletide.github.io/poop.md">poop 1</a>
+<a href="poop.html">poop 1</a>
